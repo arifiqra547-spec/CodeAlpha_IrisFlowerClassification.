@@ -26,11 +26,11 @@ Virginica
 
 🤖 Model & Algorithm
 
-For this project, we applied Logistic Regression to classify the iris flowers based on the given features.
+For this project, we applied Logistic Regression, Decision Tree and Random Forest to classify the iris flowers based on the given features.
 
 🎯 Results
 
-The model achieved an accuracy of ~100%.
+The models achieved an accuracy of ~100%.
 
 Confusion Matrix and classification report confirm that the model performs well across all three classes.
 
